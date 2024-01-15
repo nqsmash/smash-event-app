@@ -1,1 +1,0 @@
-# smash-event-app
